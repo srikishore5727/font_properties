@@ -1,0 +1,15 @@
+@import url('https://fonts.cdnfonts.com/css/poppins');
+
+body{
+  font-family: 'Poppins',sans-serif;
+}
+
+#css{
+  font-variant:initial;
+  font-weight: bold;
+  font-style: italic;
+}
+
+p{
+  font-size: 15px;
+}
